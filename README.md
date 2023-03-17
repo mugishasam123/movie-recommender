@@ -6,8 +6,7 @@
 
 <br/>
 
-![ok](https://user-images.githubusercontent.com/90222110/226001439-2db113cb-9b36-4946-8bf6-c3c63275226f.PNG)
-
+![Screenshot from 2023-03-17 21-56-14](https://user-images.githubusercontent.com/90524466/226044140-1e74bd4a-0aa4-4b59-8980-65e3164f7ade.png)
 <br/>
 
 Additional description about the project and its features.
